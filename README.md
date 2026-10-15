@@ -45,7 +45,7 @@ Toolbars and headers must never overlap or collide when sidebars expand or windo
 
 ### 6. Linguistic Dignity & Character Integrity
 - Strict UTF-8 without BOM. Zero mojibake or broken character substitutions.
-- Write natural, idiomatic human copy—never literal machine translations.
+- Write natural, idiomatic human copy--never literal machine translations.
 
 ---
 
@@ -53,8 +53,8 @@ Toolbars and headers must never overlap or collide when sidebars expand or windo
 
 | Surface | Robotic AI Slop (Banned) | Perfect Mind Standard (Required) |
 | :--- | :--- | :--- |
-| **Settings Header** | `"SYSTEM CONFIGURATION & SHORTCUT CENTER"` + `"Horizontal Management Panel"` | `Settings` · `Preferences & Shortcuts` |
-| **Settings Tab 1** | `"General & Workspace (All System Settings & Rail Engine)"` | `General` · `Panels, docking & layout` |
+| **Settings Header** | `"SYSTEM CONFIGURATION & SHORTCUT CENTER"` + `"Horizontal Management Panel"` | `Settings` - `Preferences & Shortcuts` |
+| **Settings Tab 1** | `"General & Workspace (All System Settings & Rail Engine)"` | `General` - `Panels, docking & layout` |
 | **Export CTA** | `"Instantly Export Entire Project Now"` | `Export` |
 | **Section Title** | `"LEFT SIDEBAR BEHAVIOR (LAYERS & 800+ ASSETS)"` | `Left Sidebar` |
 | **TopBar Layout** | Fixed rows that crash into each other on small screens | Elastic spacers + responsive tiering (0 collision) |
